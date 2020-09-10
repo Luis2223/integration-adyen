@@ -1,0 +1,14 @@
+{
+  "name": "integration-adyen",
+  "version": "0.0.1",
+  "description": "Integração com o gateway adyen",
+  "main": "index.js",
+  "repository": "https://github.com/Luis2223/integration-adyen.git",
+  "author": "Luis2223 <luis.santos@grupozelo.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@adyen/api-library": "^5.0.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  }
+}
